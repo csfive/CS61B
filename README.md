@@ -1,4 +1,4 @@
-# UCB CS61B 2021 Spring
+# UCB CS61B Spring 2021
 
 - [Course Website](https://sp21.datastructur.es/)
 - [Textbook](https://joshhug.gitbooks.io/hug61b/content/)
